@@ -7,7 +7,7 @@ PyPDF2
 openai
 langchain
 langchain-community
-faiss-cpu==1.7.4
+faiss-cpu==1.7.2
 dimod==1.2.0
 gunicorn
 faiss-cpu
