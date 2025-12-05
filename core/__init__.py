@@ -1,1 +1,1 @@
-core/__init__.py
+# Make ui a proper Python package
