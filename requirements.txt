@@ -7,8 +7,8 @@ PyPDF2
 openai
 langchain
 langchain-community
-faiss-cpu==1.7.2
-dimod==1.2.0
+faiss-cpu
+# dimod
 gunicorn
 faiss-cpu
 sentence-transformers
