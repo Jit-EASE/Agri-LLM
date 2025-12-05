@@ -9,3 +9,8 @@ langchain
 langchain-community
 faiss-cpu
 dimod
+gunicorn
+plotlydimod
+faiss-cpu
+sentence-transformers
+
